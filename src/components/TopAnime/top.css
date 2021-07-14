@@ -1,0 +1,26 @@
+.main-top{
+    padding: 10px;
+}
+.top-list{
+    padding: 10px;
+}
+.top-list ul{
+    list-style: none;
+}
+.top-list ul li{
+    margin-bottom: 20%;
+}
+.top-list li a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Teko', sans-serif;
+    font-size: large;
+    background: #ced4da;
+    padding: 10px;
+    border-radius: 10px;
+    transition: 0.4s all;
+}
+.top-list li a:hover{
+    background: black;
+    color: whitesmoke;
+}
